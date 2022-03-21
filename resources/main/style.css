@@ -1,0 +1,15 @@
+body {
+    background-color:antiquewhite;
+}
+
+.jumbotron {
+    background-image: url("images/bb_banner.jpeg");
+}
+
+.col-md-5 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.col-md-12 {
+    font-family:Arial, Helvetica, sans-serif;
+}
